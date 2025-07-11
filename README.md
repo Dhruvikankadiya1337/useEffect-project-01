@@ -26,9 +26,6 @@ This is a simple React project that uses the `useEffect` hook to fetch paginated
 
 ---
 
-## 📂 Folder Structure
-
-
 
 code link : https://codesandbox.io/p/sandbox/useeffect-project-01-gfyqll
 
