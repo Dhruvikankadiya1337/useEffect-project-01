@@ -1,5 +1,10 @@
 # useEffect-project-01
 
+code link : https://codesandbox.io/p/sandbox/useeffect-project-01-gfyqll
+
+video link : https://drive.google.com/file/d/1jAeziXkOdGY0a50mhI8nWysVgghIdj_b/view?usp=sharing
+
+
 # 📘 React Paginated Posts Viewer (useEffect Project)
 
 This is a simple React project that uses the `useEffect` hook to fetch paginated data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/posts). It displays 10 posts per page and includes navigation with **Previous** and **Next** buttons.
@@ -27,6 +32,3 @@ This is a simple React project that uses the `useEffect` hook to fetch paginated
 ---
 
 
-code link : https://codesandbox.io/p/sandbox/useeffect-project-01-gfyqll
-
-video link : https://drive.google.com/file/d/1jAeziXkOdGY0a50mhI8nWysVgghIdj_b/view?usp=sharing
